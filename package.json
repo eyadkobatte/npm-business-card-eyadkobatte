@@ -1,10 +1,10 @@
 {
   "name": "eyadkobatte",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Personal business card",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,13 @@
     "eyadkobatte"
   ],
   "author": "Eyad Kobatte",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.4"
+  }
 }
