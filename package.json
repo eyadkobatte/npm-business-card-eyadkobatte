@@ -1,5 +1,5 @@
 {
-  "name": "eyadkobatte",
+  "name": "@eyadkobatte/card",
   "version": "0.0.1",
   "description": "Personal business card",
   "main": "index.js",
