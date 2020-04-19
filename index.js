@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /* eslint-disable no-console */
 const resetTerminalColor = '\x1b[0m';
 const fgColor = '\x1b[34m';
