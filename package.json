@@ -1,0 +1,21 @@
+{
+  "name": "eyadkobatte",
+  "version": "0.0.0",
+  "description": "Personal business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:eyadkobatte/npm-business-card-eyadkobatte"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "npx",
+    "eyadkobatte"
+  ],
+  "author": "Eyad Kobatte",
+  "license": "MIT"
+}
