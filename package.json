@@ -1,6 +1,6 @@
 {
   "name": "@eyadkobatte/card",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Personal business card",
   "main": "index.js",
   "scripts": {
